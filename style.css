@@ -201,3 +201,10 @@ footer {
     left: 25px;
     bottom: 55px;
 }
+
+.text4 {
+    color: white;
+    font-size: 28px;
+    position: relative;
+    left: 1020px;
+}
