@@ -30,6 +30,10 @@
             <div class="button25"><div class="text2"><p><a href="https://ru.wikipedia.org/">Wikipedia</a></p></div><div><p class="text3">Wikipedia - это общедоступная многоязычная универсальная интернет-энциклопедия со свободным контентом.</p></div></div>
             <div class="button26"><div class="text2"><p><a href="https://github.com/">Github</a></p></div><div><p class="text3">Github - это крупнейший веб-сервис для <br> хранения IT-проектов и их совместной <br> разработки.</p></div></div>
         </div>
+        <div>
+            <RewriteCond %{HTTP_USER_AGENT} (?i:midp|samsung|nokia|j2me|avant|docomo|novarra|palmos|palmsource|opwv|chtml|pda|mmp|blackberry|mib|symbian|wireless|nokia|hand|mobi|phone|cdm|upb|audio|SIE|SEC|samsung|HTC|mot-|mitsu|sagem|sony|alcatel|lg|eric|vx|NEC|philips|mmm|xx|panasonic|sharp|wap|sch|rover|pocket|benq|java|pt|pg|vox|amoi|bird|compal|kg|voda|sany|kdd|dbt|sendo|sgh|gradi|jb|dddi|moto|iphone|android)
+RewriteRule ^([^mobile]*?)page/?$ http://site.ru/mobile-page/ [R=301,L]>
+</div>
     </main>
     <footer>
         <!--by ARD384-->
