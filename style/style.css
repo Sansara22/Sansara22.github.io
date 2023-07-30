@@ -1,0 +1,11 @@
+.h-main {
+    min-height: 100px;
+}
+
+.img-main {
+    height: 400px;
+    background-image: url("../img/main-img.png");
+    background-size: cover;
+    -moz-background-size: cover;
+    background-position: center;
+}
