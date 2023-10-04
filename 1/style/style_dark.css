@@ -11,32 +11,32 @@
 }
 
 .btn-color {
-    background-color: #EEEEEE;
-    color: black;
+    background-color: #262A56;
+    color: white;
 }
 
 .card-color {
-    background-color: #393E46;
+    background-color: #0f0f0f;
     color: white;
 }
 
 .main-color {
-    background-color: #222831;
+    background-color: #000000;
     color: white;
 }
 
 .hdr-color {
-    background-color: #D65A31;
+    background-color: #B8621B;
     color: white;
 }
 
 .hdr-modal-color {
-    background-color: #D65A31;
+    background-color: #B8621B;
     color: white;
 }
 
 .main-modal-color {
-    background-color: #222831;
+    background-color: #0f0f0f;
     color: white;
 }
 
@@ -61,16 +61,16 @@
 }
 
 .plus {
-    background:#EEEEEE ;
-    color: black;
+    background:#262A56 ;
+    color: white;
     height: 30px;
     width: 30px;
     border: 0px;
 }
 
 .minus {
-    background:#EEEEEE ;
-    color: black;
+    background:#262A56;
+    color: white;
     height: 30px;
     width: 30px;
     border: 0px;
